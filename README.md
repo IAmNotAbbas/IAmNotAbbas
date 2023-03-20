@@ -1,7 +1,3 @@
-
-<!--
-**IAmNotAbbas/IAmNotAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Hi there, I'm Abbas.<br><br>An innovative and adaptable software engineer with a unique background in fashion design. <br>Passionate about solving complex problems with technology and creating elegant, user-friendly solutions.<br>With my diverse background and technical skills, I have a unique perspective on software engineering and a passion for creating innovative solutions. <br>I am excited to bring my creativity, problem-solving skills, and technical knowledge to a junior software engineering role where I can continue to grow and develop my skills. <br><br>🔭 I’m currently working on developing and improving my programming skills further.<br>🌱 I’m currently learning Typescript.<br>💬 Ask me about anything.<br>⚡ Fun fact: I enjoy bouldering & video games.<br>📫 How to reach me: iamabbasalam@gmail.com
 
